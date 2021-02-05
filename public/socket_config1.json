@@ -1,0 +1,13 @@
+{
+
+"port":8557,
+
+"host":"betsoft",
+"prefix":"http://",
+
+"host_ws":"betsoft",
+"prefix_ws":"ws://",
+
+"ssl":false
+
+}
